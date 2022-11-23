@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+  
+![🎧 My latest musics](https://spotify-recently-played-readme.vercel.app/api?user=asmandu22&unique=true)
+  
+</div>
