@@ -48,9 +48,8 @@
 
 
 <h3>🌱 Learning 🌱</h3>
+
 [![Vue Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
-
-
 
 <h3>📈 My stats 📈</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Munegu">
