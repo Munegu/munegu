@@ -76,16 +76,16 @@
 
 <div>
     <h3>🇯🇵 Mangas and Anime 🇯🇵</h3>
-    <img src="gifs/tsubasa.gif" alt="tsubasa" width="480">
+    <img src="gifs/tsubasa.gif" alt="tsubasa" width="280">
 </div>
 <br/>
 <div>
     <h3>🎮 Video games 🎮</h3>
-    <img src="gifs/donkey_kong2.gif" alt="donkey kong" width="480">
+    <img src="gifs/donkey_kong2.gif" alt="donkey kong" width="280">
 </div>
 <div>
     <h3>🏸 Badminton 🏸</h3>
-    <img src="gifs/badminton.gif" alt="badminton" width="480">
+    <img src="gifs/badminton.gif" alt="badminton" width="280">
 </div>
 <div>
     <h3>🎧 Music 🎧</h3>
