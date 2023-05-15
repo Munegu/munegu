@@ -2,7 +2,7 @@
 <div align="center">
 <h1> Hi there 👋</h1>
 
-<strong>I am a full stack web developer in Saint-Brieuc, Brittany, France 🇫🇷</strong>
+<strong>I am a web developer in Saint-Brieuc, Brittany, France 🇫🇷</strong>
 </div>
 
 [comment]: <> (Work)
