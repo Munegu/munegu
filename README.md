@@ -28,28 +28,33 @@
 
 [![Composer Badge](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://getcomposer.org)
 [![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com)
-[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://fr.reactjs.org)
-
 [![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+
+[//]: # ([![Typescript Badge]&#40;https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&#41;]&#40;https://www.typescriptlang.org&#41;)
+[//]: # ([![React Badge]&#40;https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&#41;]&#40;https://fr.reactjs.org&#41;)
+
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Iterm Badge](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)](https://iterm2.com/)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.ubuntu-fr.org)
-[![VsCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+
+[//]: # ([![VsCode Badge]&#40;https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&#41;]&#40;https://code.visualstudio.com&#41;)
 
 [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Glossary/HTML)
 [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
-[![RabbitMq Badge](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
-[![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/fr/software/jira)
+[//]: # ([![Sass Badge]&#40;https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&#41;]&#40;https://sass-lang.com&#41;)
+[//]: # ([![RabbitMq Badge]&#40;https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white&#41;]&#40;https://www.rabbitmq.com&#41;)
+[//]: # ([![Jira Badge]&#40;https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&#41;]&#40;https://www.atlassian.com/fr/software/jira&#41;)
+
 [![Teams Badge](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 
 
-<h3>🌱 Learning 🌱</h3>
+[//]: # (<h3>🌱 Learning 🌱</h3>)
 
-[![Vue Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
+[//]: # ([![Vue Badge]&#40;https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&#41;]&#40;https://vuejs.org&#41;)
 
 [//]: # (<h3>📈 My stats 📈</h2>)
 
