@@ -34,7 +34,7 @@
 [//]: # ([![React Badge]&#40;https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&#41;]&#40;https://fr.reactjs.org&#41;)
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Iterm Badge](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)](https://iterm2.com/)
+[![Ghostty Badge](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logoColor=white)](https://ghostty.org)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.ubuntu-fr.org)
 
 [//]: # ([![VsCode Badge]&#40;https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&#41;]&#40;https://code.visualstudio.com&#41;)
@@ -49,7 +49,7 @@
 
 [![Teams Badge](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
+[![Obsidian Badge](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
 
 
 <h3>🌱 Learning 🌱</h3>
