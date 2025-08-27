@@ -52,6 +52,11 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 
 
+<h3>🌱 Learning 🌱</h3>
+
+[![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+
+
 [//]: # (<h3>🌱 Learning 🌱</h3>)
 
 [//]: # ([![Vue Badge]&#40;https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&#41;]&#40;https://vuejs.org&#41;)
@@ -96,9 +101,7 @@
 <div>
     <h3>🎧 Music 🎧</h3>
 
-[![SPotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/asmandu22?si=31c446f2e24c4d84)](https://open.spotify.com/user/asmandu22?si=31c446f2e24c4d84)
-
-![🎧 My latest musics](https://spotify-recently-played-readme.vercel.app/api?user=asmandu22&unique=true)
+[![Tidal Badge](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white&link=https://tidal.com/@shingo_aoi)](https://tidal.com/@shingo_aoi)
 
 </div>
 </div>
