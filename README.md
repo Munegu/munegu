@@ -35,7 +35,7 @@
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Ghostty Badge](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logoColor=white)](https://ghostty.org)
-[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.ubuntu-fr.org)
+[![Omarchy Badge](https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=anarchy&logoColor=white)](https://learn.omacom.io/2/the-omarchy-manual)
 
 [//]: # ([![VsCode Badge]&#40;https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&#41;]&#40;https://code.visualstudio.com&#41;)
 
