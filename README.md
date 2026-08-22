@@ -20,7 +20,7 @@
 [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 [![MySql Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/fr/)
-[![PostGreQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Claude Code Badge](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/claude-code)
 [![PHPStorm Badge](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/fr-fr/phpstorm/)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com)
 
@@ -29,13 +29,14 @@
 [![Composer Badge](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://getcomposer.org)
 [![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com)
 [![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![PostGreQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 [//]: # ([![Typescript Badge]&#40;https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&#41;]&#40;https://www.typescriptlang.org&#41;)
 [//]: # ([![React Badge]&#40;https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&#41;]&#40;https://fr.reactjs.org&#41;)
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Ghostty Badge](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logoColor=white)](https://ghostty.org)
-[![Omarchy Badge](https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=anarchy&logoColor=white)](https://learn.omacom.io/2/the-omarchy-manual)
+[![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 
 [//]: # ([![VsCode Badge]&#40;https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&#41;]&#40;https://code.visualstudio.com&#41;)
 
@@ -52,13 +53,9 @@
 [![Obsidian Badge](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
 
 
-<h3>🌱 Learning 🌱</h3>
-
-[![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-
-
 [//]: # (<h3>🌱 Learning 🌱</h3>)
 
+[//]: # ([![Laravel Badge]&#40;https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&#41;]&#40;https://laravel.com&#41;)
 [//]: # ([![Vue Badge]&#40;https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&#41;]&#40;https://vuejs.org&#41;)
 
 [//]: # (<h3>📈 My stats 📈</h2>)
